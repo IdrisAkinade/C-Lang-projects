@@ -2,7 +2,7 @@
 // Written by Idris Akinade
 // Last updated 14-12-2018
 //
-
+#include <SoftwareSerial.h>
 
 int i=1; // the value represents where elevator stay ( first time elevator start in the first floor
 int btn4=5; // represents the 4th floor
